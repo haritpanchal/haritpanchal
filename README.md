@@ -48,11 +48,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/BitBucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Visual_Studio-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=orange)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/haritpanchal/haritpanchal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haritpanchal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harit's Stats" />
-</a>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
