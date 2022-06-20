@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello!
 
 My name is Harit Panchal and I'm a Web Developer. I'm from India, living in Ahmedabad and currently working at Creole Studios.
 - 🔭 I’m currently working on Wordpress and Gatsby.
